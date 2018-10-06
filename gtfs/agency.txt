@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+rigassatiksme,"Rīgas satiksme",https://www.rigassatiksme.lv,Europe/Riga,67104800,lv

@@ -1,0 +1,104 @@
+﻿route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+riga_bus_5T,"5T","Iļģuciems - Stacijas laukums",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/5T,F4B427,FFFFFF
+riga_bus_1,"1","Abrenes iela - Berģuciems",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/1,F4B427,FFFFFF
+riga_bus_2,"2","Abrenes iela - Vecmīlgrāvis",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/2,F4B427,FFFFFF
+riga_bus_3,"3","Daugavgrīva - Pļavnieki",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/3,F4B427,FFFFFF
+riga_bus_4,"4","Abrenes iela - Piņķi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/4,F4B427,FFFFFF
+riga_bus_4z,"4z","Abrenes iela - Zolitūde",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/4z,F4B427,FFFFFF
+riga_bus_5,"5","Abrenes iela - Mežciems",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/5,F4B427,FFFFFF
+riga_bus_6,"6","Abrenes iela  - Dreiliņi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/6,F4B427,FFFFFF
+riga_bus_7,"7","Abrenes iela - Stīpnieki",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/7,F4B427,FFFFFF
+riga_bus_8,"8","Stacijas laukums - Zolitūde",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/8,F4B427,FFFFFF
+riga_bus_9,"9","Abrenes iela - Mežaparks",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/9,F4B427,FFFFFF
+riga_bus_10,"10","Abrenes iela - Brūkleņu iela - Jaunmārupe",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/10,F4B427,FFFFFF
+riga_bus_11,"11","Abrenes iela - Jaunciems - Suži",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/11,F4B427,FFFFFF
+riga_bus_12,"12","Abrenes iela - Kooperatīvs ""Ziedonis""",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/12,F4B427,FFFFFF
+riga_bus_13,"13","Babītes stacija - Kleisti - Preču 2",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/13,F4B427,FFFFFF
+riga_bus_14,"14","Abrenes iela - Zvēraudzētava",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/14,F4B427,FFFFFF
+riga_bus_15,"15","Dārziņi - Jugla",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/15,F4B427,FFFFFF
+riga_bus_16,"16","Abrenes iela - Papīrfabrika ""Jugla""",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/16,F4B427,FFFFFF
+riga_bus_18,"18","Abrenes iela - Dārziņi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/18,F4B427,FFFFFF
+riga_bus_19,"19","Mežciems - Bukulti - Sarkandaugava",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/19,F4B427,FFFFFF
+riga_bus_20,"20","Pētersalas iela - Pļavnieku kapi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/20,F4B427,FFFFFF
+riga_bus_21,"21","Imanta - Jugla",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/21,F4B427,FFFFFF
+riga_bus_22,"22","Abrenes iela - Lidosta",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/22,F4B427,FFFFFF
+riga_bus_23,"23","Abrenes iela - Baloži",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/23,F4B427,FFFFFF
+riga_bus_24,"24","Abrenes iela - Mangaļsala",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/24,F4B427,FFFFFF
+riga_bus_25,"25","Abrenes iela - Mārupe",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/25,F4B427,FFFFFF
+riga_bus_26,"26","Abrenes iela - Katlakalns",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/26,F4B427,FFFFFF
+riga_bus_28,"28","Jugla - Langstiņi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/28,F4B427,FFFFFF
+riga_bus_29,"29","Mežciems - Vecmīlgrāvis - Vecāķi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/29,F4B427,FFFFFF
+riga_bus_30,"30","Centrālā stacija - Daugavgrīva",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/30,F4B427,FFFFFF
+riga_bus_31,"31","Dārziņi - Jugla",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/31,F4B427,FFFFFF
+riga_bus_32,"32","Abrenes iela - Piņķi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/32,F4B427,FFFFFF
+riga_bus_34,"34","Centrāltirgus - Saulīši",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/34,F4B427,FFFFFF
+riga_bus_35,"35","Abrenes iela - Pleskodāle",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/35,F4B427,FFFFFF
+riga_bus_36,"36","Imanta  - Vakarbuļļi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/36,F4B427,FFFFFF
+riga_bus_37,"37","Esplanāde - Imanta",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/37,F4B427,FFFFFF
+riga_bus_38,"38","Abrenes iela - Dzirciema iela",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/38,F4B427,FFFFFF
+riga_bus_39,"39","Abrenes iela - Lāčupes kapi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/39,F4B427,FFFFFF
+riga_bus_40,"40","Jugla - Ziepniekkalns",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/40,F4B427,FFFFFF
+riga_bus_41,"41","Esplanāde - Imanta",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/41,F4B427,FFFFFF
+riga_bus_43,"43","Abrenes iela - Skulte",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/43,F4B427,FFFFFF
+riga_bus_44,"44","Ziepniekkalns - Zolitūde",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/44,F4B427,FFFFFF
+riga_bus_46,"46","Ziepniekkalns - Zolitūde",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/46,F4B427,FFFFFF
+riga_bus_47,"47","Abrenes iela - Šķirotava",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/47,F4B427,FFFFFF
+riga_bus_48,"48","Pļavnieku  kapi - Sarkandaugava",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/48,F4B427,FFFFFF
+riga_bus_49,"49","MAN TESS - Rumbula",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/49,F4B427,FFFFFF
+riga_bus_50,"50","Abrenes iela - TEC 2",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/50,F4B427,FFFFFF
+riga_bus_51,"51","Abrenes iela - Ulbroka",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/51,F4B427,FFFFFF
+riga_bus_52,"52","Abrenes iela - Pļavnieku kapi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/52,F4B427,FFFFFF
+riga_bus_53,"53","Esplanāde - Zolitūde",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/53,F4B427,FFFFFF
+riga_bus_54,"54","Abrenes iela - Voleri",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/54,F4B427,FFFFFF
+riga_bus_55,"55","Abrenes iela - Jaunmārupe",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/55,F4B427,FFFFFF
+riga_bus_56,"56","Daugavgrīva - Ziepniekkalns",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/56,F4B427,FFFFFF
+riga_bus_57,"57","Abrenes iela - Ķīpsala",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/57,F4B427,FFFFFF
+riga_bus_58,"58","Purvciems - Vecmīlgrāvis - Vecāķi",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/58,F4B427,FFFFFF
+riga_bus_59,"59","Latvijas Universitāte - Televīzijas centrs",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/59,F4B427,FFFFFF
+riga_bus_60,"60","Ķengarags - Ziepniekkalns",,3,https://saraksti.rigassatiksme.lv/index.html#riga/bus/60,F4B427,FFFFFF
+riga_tram_RETRO,"RETRO","Ausekļa iela - Mežaparks",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/RETRO,FF000C,FFFFFF
+riga_tram_1,"1","Imanta - Jugla",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/1,FF000C,FFFFFF
+riga_tram_2,"2","Centrāltirgus - Tapešu iela",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/2,FF000C,FFFFFF
+riga_tram_3,"3","Jugla - Ķengarags",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/3,FF000C,FFFFFF
+riga_tram_5,"5","Stacijas laukums - Mīlgrāvis",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/5,FF000C,FFFFFF
+riga_tram_7,"7","Ausekļa iela - Ķengarags",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/7,FF000C,FFFFFF
+riga_tram_9,"9","Aldaris - Ķengarags",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/9,FF000C,FFFFFF
+riga_tram_10,"10","Centrāltirgus - Bišumuiža",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/10,FF000C,FFFFFF
+riga_tram_11,"11","Ausekļa iela - Mežaparks",,900,https://saraksti.rigassatiksme.lv/index.html#riga/tram/11,FF000C,FFFFFF
+riga_trol_1,"1","Valmieras iela - Pētersalas iela",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/1,009DE0,FFFFFF
+riga_trol_3,"3","Centrāltirgus - Sarkandaugava",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/3,009DE0,FFFFFF
+riga_trol_5,"5","Daugavas stadions - Paula Stradiņa slimnīca",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/5,009DE0,FFFFFF
+riga_trol_9,"9","Stacijas laukums - Iļģuciems",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/9,009DE0,FFFFFF
+riga_trol_11,"11","Centrālā stacija - Ieriķu iela",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/11,009DE0,FFFFFF
+riga_trol_12,"12","Āgenskalna priedes - Šmerlis",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/12,009DE0,FFFFFF
+riga_trol_13,"13","Centrāltirgus - Ieriķu iela",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/13,009DE0,FFFFFF
+riga_trol_14,"14","Esplanāde - Mežciems",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/14,009DE0,FFFFFF
+riga_trol_15,"15","Latvijas Universitāte - Ķengarags",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/15,009DE0,FFFFFF
+riga_trol_16,"16","Pļavnieki - Šmerlis",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/16,009DE0,FFFFFF
+riga_trol_17,"17","Centrālā stacija - Purvciems",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/17,009DE0,FFFFFF
+riga_trol_18,"18","Centrālā stacija - Mežciems",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/18,009DE0,FFFFFF
+riga_trol_19,"19","Pētersalas iela - Ziepniekkalns",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/19,009DE0,FFFFFF
+riga_trol_22,"22","Centrālā stacija - Pļavnieki",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/22,009DE0,FFFFFF
+riga_trol_23,"23","Centrālā stacija - Purvciems",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/23,009DE0,FFFFFF
+riga_trol_25,"25","Brīvības iela - Iļģuciems",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/25,009DE0,FFFFFF
+riga_trol_27,"27","Stacijas laukums - Ziepniekkalns",,800,https://saraksti.rigassatiksme.lv/index.html#riga/trol/27,009DE0,FFFFFF
+riga_minibus_203,"203","Jugla - Pļavnieki",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/203,7F237E,FFFFFF
+riga_minibus_204,"204","Centrs - Jugla",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/204,7F237E,FFFFFF
+riga_minibus_206,"206","Autoosta - Mežciems",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/206,7F237E,FFFFFF
+riga_minibus_209,"209","Purvciems - Rumbula",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/209,7F237E,FFFFFF
+riga_minibus_214,"214","Centrālā stacija- Dreiliņi",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/214,7F237E,FFFFFF
+riga_minibus_224,"224","Stacijas laukums - Mangaļsala",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/224,7F237E,FFFFFF
+riga_minibus_233,"233","Centrs - Ziepniekkalns",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/233,7F237E,FFFFFF
+riga_minibus_237,"237","Esplanāde - Imanta",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/237,7F237E,FFFFFF
+riga_minibus_241,"241","Centrs - Lidosta",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/241,7F237E,FFFFFF
+riga_minibus_244,"244","Centrālā stacija - Iļģuciems",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/244,7F237E,FFFFFF
+riga_minibus_246,"246","Daugavgrīva - Pļavnieki",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/246,7F237E,FFFFFF
+riga_minibus_246a,"246a","Centrs - Daugavgrīva",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/246a,7F237E,FFFFFF
+riga_minibus_263,"263","Mežciems - Šampēteris",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/263,7F237E,FFFFFF
+riga_minibus_271,"271","P. Stradiņa slimnīca - Slimnīca ""Gaiļezers""",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/271,7F237E,FFFFFF
+riga_minibus_300,"300","Stacijas laukums - Vecdaugava",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/300,7F237E,FFFFFF
+riga_minibus_316,"316","Centrs - Ķengarags",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/316,7F237E,FFFFFF
+riga_minibus_322,"322","Centrālā stacija - Lidosta",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/322,7F237E,FFFFFF
+riga_minibus_336,"336","Baznīcas iela - Zolitūde",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/336,7F237E,FFFFFF
+riga_minibus_338,"338","Imanta - Pļavnieki",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/338,7F237E,FFFFFF
+riga_minibus_370,"370","Imanta - Pļavnieki",,3,https://www.marsruti.lv/rigasmikroautobusi/index.html#riga/minibus/370,7F237E,FFFFFF

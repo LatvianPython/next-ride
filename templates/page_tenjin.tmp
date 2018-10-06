@@ -1,0 +1,48 @@
+<?py # -*- coding: utf-8 -*- ?>
+<?py #@ARGS html_metadata, html_body, navbar ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <?py for key, value in html_metadata.items(): ?>
+    #{value}
+    <?py #endfor ?>
+</head>
+<body>
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="/">${navbar['title']}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            <?py for link in navbar['links']: ?>
+            <?py if 'dropdown' not in link: ?>
+            <li class="nav-item">
+                <a class="nav-link${link['active']}" href="/${link['href']}">${link['text']}</a>
+            </li>
+            <?py else: ?>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle${link['active']}" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    ${link['text']}
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <?py for dropdown_link in link['dropdown']: ?>
+                    <a class="dropdown-item" href="${dropdown_link['href']}">${dropdown_link['text']}</a>
+                    <?py #endfor ?>
+                </div>
+            </li>
+            <?py #endif ?>
+            <?py #endfor ?>
+        </ul>
+    </div>
+</nav>
+#{html_body}
+<div class="navbar static-bottom  navbar-dark bg-dark">
+    <div class="container">
+        <p class="navbar-text pull-left">Site made by LatvianPython</p>
+    </div>
+</div>
+<script src="/js/jquery-3.3.1.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<?py # -*- coding: utf-8 -*- ?>
+<?py #@ARGS minibus_data ?>
+<pre>
+    <?py for minibus in minibus_data: ?>
+
+        minibus: ${minibus['car_id']}
+        route number: ${minibus['route_number']}
+        route type: ${minibus['route_type']}
+        current stop: ${minibus['current_stop']}
+        destination: ${minibus['destination_stop']}
+        time to arrive: ${minibus['time_to_arrive']}
+    <?py #endfor ?>
+</pre>
