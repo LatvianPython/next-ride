@@ -1,0 +1,32 @@
+{
+    "comment": "in place of '...' should be inserted absolute path to the location of the repository",
+    "/": {
+        "tools.gzip.on": true,
+        "tools.gzip.mime_types": ["text/html", "text/plain", "text/javascript", "text/css", "application/javascript"]
+    },
+    "/favicon.ico": {
+        "tools.staticfile.filename": "...\\next-ride\\favicon.ico",
+        "tools.staticfile.on": true
+    },
+    "/css/site.css": {
+        "tools.staticfile.filename": "...\\next-ride\\css\\site.css",
+        "tools.staticfile.on": true
+    },
+    "/css/bootstrap.min.css": {
+        "tools.staticfile.filename": "...\\next-ride\\css\\bootstrap.min.css",
+        "tools.staticfile.on": true
+    },
+    "/js/bootstrap.min.js": {
+        "tools.staticfile.filename": "...\\next-ride\\js\\bootstrap.min.js",
+        "tools.staticfile.on": true
+    },
+    "/js/jquery-3.3.1.min.js": {
+        "tools.staticfile.filename": "...\\next-ride\\js\\jquery-3.3.1.min.js",
+        "tools.staticfile.on": true
+    },
+    "global": {
+        "server.socket_host": "127.0.0.1",
+        "server.socket_port": 8080,
+        "server.thread_pool": 8
+    }
+}
