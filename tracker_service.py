@@ -120,8 +120,10 @@ class Root(object):
 
         minibuses = self.get_minibus_locations()
 
-        valid_buses = [minibus for minibus in minibuses if minibus['route_number'] in
-                       [route['route_number'] for route in self.routes]]
+        valid_buses = [minibus
+                       for minibus in minibuses
+                       if minibus['route_number'] in [route['route_number']
+                                                      for route in self.routes]]
 
         temp_tracking = []
         for route in self.routes:
